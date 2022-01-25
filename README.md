@@ -1,16 +1,16 @@
 Instructions:
 
 1)Use python 3.7-3.9, install latest version of pip.
+
 2)Install tensor flow 2.7-2.9
 https://www.tensorflow.org/install/pip
+
 3)other required libraries
 matplot,numpy,sklearn,opencv,imutils
+
 4)Install jupyter classic notebook
 https://jupyter.org/install
-5)Download data set from
-https://drive.google.com/file/d/1m6Rd5nxol_cT2EKHSodli9HD1L6k0bKR/view
-Extract it to the working directory
-6)All files should be in the same directory
+
 
 Training the model
 
